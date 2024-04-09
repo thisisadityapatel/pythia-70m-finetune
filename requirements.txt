@@ -6,5 +6,6 @@ torch
 transformers
 pandas
 jsonlines
-llama
+lamini
 accelerate
+ipykernel
